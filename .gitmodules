@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jmgirard/jmgirard.r-universe.dev
 	branch = HEAD
 [submodule "ackwards"]
 	path = ackwards
@@ -8,6 +8,9 @@
 [submodule "circumplex"]
 	path = circumplex
 	url = https://github.com/jmgirard/circumplex
+[submodule "hitop"]
+	path = hitop
+	url = https://github.com/jmgirard/hitop
 [submodule "rlmstudio"]
 	path = rlmstudio
 	url = https://github.com/jmgirard/rlmstudio
